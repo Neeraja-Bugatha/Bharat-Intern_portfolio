@@ -1,0 +1,278 @@
+.logo {
+    border-color: #4b6cc1;
+    border-width: 2px;
+    border-style: solid;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#navitem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navitem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navitem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navitem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navitem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navitem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.port-banner-container {
+    background-color: #191a1d;
+    background-size: cover;
+}
+
+.port-banner-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.port-name {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+}
+
+.myname {
+    color: #4b6cc1;
+}
+
+.port-text {
+    color: #9aa5b1;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.port-banner-button {
+    color: white;
+    background-color: #4b6cc1;
+    border-radius: 8px;
+    padding: 10px;
+    border-width: 0;
+}
+
+.bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+    font-family: "Roboto";
+    padding: 8px;
+}
+
+.top-line {
+    color: #cced00;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.main-heading {
+    color: white;
+    font-weight: bold;
+}
+
+.image-person {
+    width: 100%;
+}
+
+.text-below {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.card-container {
+    background-color: #323f4b;
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.image-skill {
+    width: 80%;
+}
+
+.skill-name {
+    color: white;
+    font-family: "Roboto";
+    margin: 5px;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.bg-container-projects {
+    background-color: #3e4c59;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.top-line-project {
+    color: #cced00;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.main-heading-project {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.card-container-project {
+    background-color: #323f4b;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.card-top-image-project {
+    width: 100%;
+}
+
+.card-top-line-project {
+    padding: 5px;
+    color: #9aa5b1;
+}
+
+.card-heading-project {
+    color: white;
+    padding: 5px;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.card-text-project {
+    color: #9aa5b1;
+    padding: 5px;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.read-more-line {
+    color: #cced00;
+    padding: 5px;
+}
+
+.bg-container-service {
+    background-color: #52606d;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.top-line-service {
+    font-size: 20px;
+    color: #cced00;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.main-heading-service {
+    color: white;
+    font-weight: bold;
+}
+
+.card-container-service {
+    background-color: #323f4b;
+    font-family: "Roboto";
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.card-image-service {
+    width: 20%;
+}
+
+.card-heading-service {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.card-text-service {
+    color: #9aa5b1;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.work-done-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.line {
+    border-color: #ffffff;
+    width: 50px;
+}
+
+.work-done {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.work-done-description {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.bg-container-footer {
+    background-color: #0d2436;
+    background-size: cover;
+    padding: 10px;
+}
+
+.image-footer {
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.name-footer {
+    color: #cced00;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 28px;
+}
+
+.name-text-footer {
+    color: #9aa5b1;
+}
+
+.icon {
+    color: #9aa5b1;
+}
+
+.bottom-sec {
+    width: 100%;
+}
+
+.bg-color {
+    background-color: #001c32;
+    padding: 5px;
+}
+
+.name-text-2 {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: 400;
+}
